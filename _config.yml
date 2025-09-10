@@ -2,8 +2,7 @@
 #
 # About Theme
 #
-# Yet another theme for elegant writers with modern flat style and beautiful
-# night/dark mode.
+#Life’s messy, but growth is the point. A blog for strong, curious, masc women chasing goals and laughs along the way.
 #
 # Website: https://github.com/jeffreytse/jekyll-theme-yat
 #
@@ -24,9 +23,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@domain.com
-author: GitHub User
+title: Human Noodle
+email: yeasyfitness@gmail.com
+description:: Life’s messy, but growth is the point. A blog for strong, curious, masc women chasing goals and laughs along the way.
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
