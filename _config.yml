@@ -1,3 +1,28 @@
+# Welcome to Jekyll!
+#
+# About Theme
+#
+# Life’s messy, but growth is the point. A blog for strong, curious, masc women chasing goals and laughs along the way.
+#
+# Website: https://github.com/jeffreytse/jekyll-theme-yat
+#
+# You can do anything you want, including projects for your clients, as long
+# as you mention an attribution back (credit links in footer or project).
+# See the LICENCE file.
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you
+# use 'bundle exec jekyll serve'. If you change this file, please restart
+# the server process.
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
 title: Human Noodle
 email: yeasyfitness@gmail.com
 description: >-
@@ -10,7 +35,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
-# Yat date format
+# YAT date format
 yat:
   date_format: "%b %d, %Y"
 
@@ -18,6 +43,7 @@ yat:
 # header_transparent: true
 # content_width: "920px"
 
+# Google analytics - GA4
 # google_analytics: [Measurement ID]
 # enableDNT: "false"
 
@@ -80,6 +106,8 @@ yat:
 #   theme: "github-light"
 #   follow_site_theme: true
 
+# Build settings
+# highlighter: none
 markdown: kramdown
 kmarkdown:
   input: GFM
