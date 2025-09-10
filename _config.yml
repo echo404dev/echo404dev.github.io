@@ -69,8 +69,8 @@ yat:
 
 # defaults:
 #   home:
-#     heading: "Human Noodle"
-#     subheading: "Your awesome subheading"
+     heading: "Human Noodle"
+     subheading: "The ongoing project"
 #   banner: "Your image url"
 
 # banner:
