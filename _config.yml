@@ -67,8 +67,8 @@ yat:
 #   - tags.html
 #   - about.md
 
-# defaults:
-#   home:
+ defaults:
+   home:
      heading: "Human Noodle"
      subheading: "The ongoing project"
 #   banner: "Your image url"
